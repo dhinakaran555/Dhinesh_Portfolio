@@ -577,7 +577,7 @@ export default function Portfolio() {
                 >
                   <div />
                   <span style={{ position: "relative", zIndex: 1 }}>
-                    <img src="//Dhinakaran.png" alt="img" />
+                    <img src="/Dhinakaran.png" alt="img" />
                   </span>
                 </div>
 

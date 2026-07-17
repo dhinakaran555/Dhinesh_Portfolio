@@ -707,7 +707,7 @@ export default function Portfolio() {
                   {
                     role: "Store Assistant",
                     company: "Team infotech",
-                    period: "2019 — 2022",
+                    period: "2018 — 2022",
                   },
                 ].map((x, i) => (
                   <div

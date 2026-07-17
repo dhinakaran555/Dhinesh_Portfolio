@@ -557,7 +557,7 @@ export default function Portfolio() {
                   style={{
                     width: 280,
                     height: 280,
-
+                    borderRadius: "50%",
                     background:
                       "linear-gradient(135deg, #DBEAFE, #EFF6FF, #E0F2FE)",
                     border: "4px solid white",
@@ -577,7 +577,7 @@ export default function Portfolio() {
                 >
                   <div />
                   <span style={{ position: "relative", zIndex: 1 }}>
-                    <img src="/photo set.png" alt="img" />
+                    <img src="//Dhinakaran.png" alt="img" />
                   </span>
                 </div>
 
